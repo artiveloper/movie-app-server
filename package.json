@@ -10,7 +10,7 @@
     "@babel/polyfill": "^7.10.4",
     "axios": "^0.19.2",
     "graphql-yoga": "^1.18.3",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.20"
   },
   "scripts": {
     "start": "nodemon --exec babel-node src/index.js"
